@@ -1,0 +1,1 @@
+Fun end-of-course mini-assignment where we needed to come up with some form of educational [zine](https://wizardzines.com/) related to course material, so we made operating system memes
