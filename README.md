@@ -4,7 +4,7 @@ Code and assignment submissions for CS-1217 Operating Systems in Spring 2022 tau
 We primarily worked with the [xv6](https://pdos.csail.mit.edu/6.828/2012/xv6.html) and [jos](https://pdos.csail.mit.edu/6.828/2018/overview.html) operating systems for the coding components.
 
 Team Members:
-Saptarishi Dhanuka, Bhumika Mittal
+Saptarishi Dhanuka, [Bhumika Mittal](https://bhumikamittal.in/)
 
 This repository is only for educational purposes and any use of this repository for academic dishonesty is not permitted.
 
